@@ -1,0 +1,2 @@
+C:\Visual Studio Projects\180_days_project\AzureTesting\StorageBus\obj\Debug\ConsoleApplication1.exe
+C:\Visual Studio Projects\180_days_project\AzureTesting\StorageBus\obj\Debug\ConsoleApplication1.pdb
